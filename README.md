@@ -4,14 +4,16 @@ Hey I'm Chiedo, 👋
 
 I created this document:
 
-1. As a reminder to myself to be the manager I strive to be.
-2. To have a set of expectations and standards you can hold me accountable to as we work together.
+- As a reminder to myself to be the manager I strive to be.
+- To have a set of expectations and standards we can hold each other accountable to as we work together.
 
 I view work, in general, as an opportunity for me to meet my practical needs, express the skills I've been blessed with, improve the lives of other people, grow in my character, and build wealth so I can be more charitable.
 
 My job is to support you in whatever way I can, provide direct feedback to help you grow, and orchestrate the systems and processes that help our team be the best team we can possibly be while delivering the most impact to GitHub and our customers.
 
-## Supporting You
+## What to Expect from Me
+
+### Supporting You
 
 - I care about the whole you.
 - This job should add to your life, not detract from it.
@@ -19,18 +21,25 @@ My job is to support you in whatever way I can, provide direct feedback to help 
 - My opinions are for you to consider but decisions are yours to make.
 - Say the word and I'll be as hands-on as I can be.
 - I'm only the middleman when you want me to be or when GitHub wants me to be.
+- If I can unblock you, I will unblock you.
+- I'll provide coaching and guidance. But I'm only Morpheus. You're Neo.
 
-## Providing Direct Feedback and Recognition
+### Providing Direct Feedback and Recognition
 
 - I provide feedback and recognition constantly so we're always in lock-step as we work together.
 - Feedback is always actionable so we can focus on how we might grow and move forward.
 
-## Orchestrating Systems and Processes
+### Orchestrating Systems and Processes
 
-- Optimize for asynchronous inclusivity by writing things down, keeping things discoverable, and keeping things updated with others in mind
-- Systems and processes exist to amplify our impact. When they hinder our work, we improve them or start over.
-- Being able to go somewhere for an answer is 🥂. Having to ask someone for an answer is 🐢.
-- Estimates are hard so they should be updated often! But when we break down work into smaller chunks, they're so much better.
+- I optimize for asynchronous inclusivity by writing things down, keeping things discoverable, and keeping things updated with others in mind
+- I set up systems and processes to improve our work and amplify our impact. But when they hinder our work, we improve them or start over.
+
+## What I Expect from Team Members
+
+- When you have ideas, share them.
+- Actively maintain a written paper trail of key conversations and your work.
+- Estimates are super hard so break down your work into small chunks, estimate those chunks and then keep those estimates updated, because they'll change.
+- Hold yourself and your team members accountable to being the best team possible 🎉 👇
 
 ## Being the Best Team
 
@@ -59,7 +68,7 @@ As we collaborate we strive for:
 
 ### The 5 Dysfunctions of a team
 
-And we solve manifestations of:
+And we prioritize solving these issues when we see them:
 
 - Absence of Trust
 - Fear of Conflict
@@ -74,7 +83,7 @@ And we solve manifestations of:
 - Being less reactive and more intentional
 - Being more direct (but not reactively so)
 - Focusing on impact over activity
-- Instructing less. Guiding more.
+- Instructing less and guiding more
 
 ## Books
 
