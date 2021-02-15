@@ -38,7 +38,8 @@ My job is to support you in whatever way I can, provide direct feedback to help 
 
 - When you have ideas, share them.
 - Actively maintain a written paper trail of key conversations and your work.
-- Estimates are super hard so break down your work into small chunks, estimate those chunks and then keep those estimates updated, because they'll change.
+- Estimates are super hard so break down your work into small shippable chunks, estimate those chunks and then keep those estimates updated as things change.
+- Demo your work often to teach and inspire.
 - Hold yourself and your team members accountable to being the best team possible 🎉 👇
 
 ## Being the Best Team
