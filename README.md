@@ -47,7 +47,7 @@ In addition to [GitHub's Leadership Principles](https://thehub.github.com/github
 
 ### The 5 Ideals
 
-We strive for:
+As we collaborate we strive for:
 
 - Locality and Simplicity
 - Focus, Flow, and Joy
