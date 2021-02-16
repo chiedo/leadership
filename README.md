@@ -44,9 +44,9 @@ My job is to support you in whatever way I can, provide direct feedback to help 
 
 ## Being the Best Team
 
-### My Team Values
+### We Prioritize
 
-In addition to [GitHub's Leadership Principles](https://thehub.github.com/github/#leadership-principles) and what GitHub defines as a [High-Performance Culture](https://thehub.github.com/hpc/), to be the most purposeful and impactful as a team, we commit to: 
+In addition to [GitHub's Leadership Principles](https://thehub.github.com/github/#leadership-principles) and maintaining a [High-Performance Culture](https://thehub.github.com/hpc/), I believe our should prioritize: 
 
 - People: When we orient our efforts around how they improve the lives of others, the world is a better place.
 - Innovation: Experimenting with new ideas is how some of the best solutions to problems are discovered.
@@ -55,27 +55,23 @@ In addition to [GitHub's Leadership Principles](https://thehub.github.com/github
 - Ownership: When we make commitments and see them through, our yeses become more powerful and so do our nos.
 - Intentionality: When we pause and think through our decisions before taking action, they're often way better.
 
-### The 5 Ideals
-
-As we collaborate we strive for:
+### We Optimize For
 
 - Locality and Simplicity
 - Focus, Flow, and Joy
 - Improvement of Daily Work
-- Phycological Safety
+- Psychological Safety
 - Customer Focus
 
 *Source: The Unicorn Project*
 
-### The 5 Dysfunctions of a team
+### And We Commit To
 
-And we prioritize solving these issues when we see them:
-
-- Absence of Trust
-- Fear of Conflict
-- Lack of Commitment
-- Avoidance of Accountability
-- Inattention to Results
+- Trust
+- Healthy Conflict
+- Commitment
+- Accountability
+- Attention to Results
 
 *Source: The 5 Dysfunctions of a Team*
 
