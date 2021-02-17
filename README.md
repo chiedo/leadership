@@ -53,7 +53,7 @@ In addition to [GitHub's Leadership Principles](https://thehub.github.com/github
 - Practicality: Perfect is the archnemesis of good.
 - Humility: We're a better team when we highly value the perspective of others and what we might learn from each person we interact with.
 - Ownership: When we make commitments and see them through, our yeses become more powerful and so do our nos.
-- Intentionality: When we pause and think through our decisions before taking action, they're often way better.
+- Intentionality: When we pause and think through our decisions before taking action, they're often better decisions.
 
 ### We Optimize For
 
