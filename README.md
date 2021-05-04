@@ -46,7 +46,7 @@ My job is to support you in whatever way I can, provide direct feedback to help 
 
 ### We Prioritize
 
-In addition to [GitHub's Leadership Principles](https://thehub.github.com/github/#leadership-principles) and maintaining a [High-Performance Culture](https://thehub.github.com/hpc/), I believe we should prioritize: 
+In addition to GitHub's Leadership Principles ([link for GitHub team members](https://thehub.github.com/github/#leadership-principles)) and maintaining a High-Performance Culture ([link for GitHub team members](https://thehub.github.com/hpc/)), I believe we should prioritize: 
 
 - People: When we orient our efforts around how they improve the lives of others, the world is a better place.
 - Innovation: Experimenting with new ideas is how some of the best solutions to problems are discovered.
