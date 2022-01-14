@@ -78,8 +78,6 @@ In addition to GitHub's Leadership Principles ([link for GitHub team members](ht
 ## I'm Working On
 
 - Being less reactive and more intentional
-- Being more direct (but not reactively so)
-- Focusing on impact over activity
 - Instructing less and guiding more
 
 ## Books
