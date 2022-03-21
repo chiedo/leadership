@@ -81,6 +81,7 @@ In addition to GitHub's Leadership Principles ([link for GitHub team members](ht
 - Increased patience
 - Moderating my pace and energy with discernment
 - Impact through delegation
+- Fewer overcommitments 
 
 ## Books
 
