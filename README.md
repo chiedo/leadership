@@ -96,9 +96,11 @@ In addition to GitHub's Leadership Principles ([link for GitHub team members](ht
 - The Five Dysfunctions of a Team by Patrick Lencioni
 - The Phoenix Project by  Gene Kim
 
-## Product 
+### Product 
 
 - The Lean Startup by Eric Ries
+- Sprint by Jake Knapp
+- Continuous Discovery Habits by Teresa Torres
 
 ## Other
 
