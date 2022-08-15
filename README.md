@@ -101,7 +101,7 @@ In addition to GitHub's Leadership Principles ([link for GitHub team members](ht
 - Accelerate by Nicole Forsgren
 - Making Work Visible by Dominica DeGrandis
 
-### Marketing
+### Sales and Marketing
 
 - Dotcom Secrets by Russell Brunson
 
