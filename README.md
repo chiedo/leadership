@@ -85,6 +85,8 @@ In addition to GitHub's Leadership Principles ([link for GitHub team members](ht
 
 ## Books
 
+### Team
+
 - Start with Why by Simon Sinek
 - Nonviolent Communication by Marshall B. Rosenberg
 - Deep Work by Cal Newport
@@ -92,8 +94,11 @@ In addition to GitHub's Leadership Principles ([link for GitHub team members](ht
 - Rocket Fuel by Gino Wikcman
 - Turn the Ship Around by David Marquet
 - The Five Dysfunctions of a Team by Patrick Lencioni
-- The Lean Startup by Eric Ries
 - The Phoenix Project by  Gene Kim
+
+## Product 
+
+- The Lean Startup by Eric Ries
 
 ## Other
 
