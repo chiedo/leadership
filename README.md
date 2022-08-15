@@ -85,7 +85,7 @@ In addition to GitHub's Leadership Principles ([link for GitHub team members](ht
 
 ## Books
 
-### Team
+### People
 
 - Start with Why by Simon Sinek
 - Nonviolent Communication by Marshall B. Rosenberg
