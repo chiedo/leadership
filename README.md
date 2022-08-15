@@ -90,16 +90,26 @@ In addition to GitHub's Leadership Principles ([link for GitHub team members](ht
 - Start with Why by Simon Sinek
 - Nonviolent Communication by Marshall B. Rosenberg
 - Deep Work by Cal Newport
-- The Goal by Eliyahu M. Goldratt
 - Rocket Fuel by Gino Wikcman
 - Turn the Ship Around by David Marquet
 - The Five Dysfunctions of a Team by Patrick Lencioni
 - The Phoenix Project by  Gene Kim
 
+### Process
+
+- The Goal by Eliyahu M. Goldratt
+- Accelerate by Nicole Forsgren
+- Making Work Visible by Dominica DeGrandis
+
+### Marketing
+
+- Dotcom Secrets by Russell Brunson
+
 ### Product 
 
 - The Lean Startup by Eric Ries
 - Sprint by Jake Knapp
+- Inspired by Marty Cagan
 - Continuous Discovery Habits by Teresa Torres
 
 ## Other
