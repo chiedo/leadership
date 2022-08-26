@@ -104,6 +104,7 @@ In addition to GitHub's Leadership Principles ([link for GitHub team members](ht
 ### Sales and Marketing
 
 - Dotcom Secrets by Russell Brunson
+- Building a Storybrand by Donald Miller
 
 ### Product 
 
