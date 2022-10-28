@@ -100,6 +100,7 @@ In addition to GitHub's Leadership Principles ([link for GitHub team members](ht
 - The Goal by Eliyahu M. Goldratt
 - Accelerate by Nicole Forsgren
 - Making Work Visible by Dominica DeGrandis
+- Agile estimating and planning by Mike Cohn
 
 ### Sales and Marketing
 
@@ -112,6 +113,10 @@ In addition to GitHub's Leadership Principles ([link for GitHub team members](ht
 - Sprint by Jake Knapp
 - Inspired by Marty Cagan
 - Continuous Discovery Habits by Teresa Torres
+
+### Business
+
+- Build by Tony Fadell
 
 ## Other
 
