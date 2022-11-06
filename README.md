@@ -87,12 +87,13 @@ In addition to GitHub's Leadership Principles ([link for GitHub team members](ht
 
 ### People
 
-- Start with Why by Simon Sinek
+- Start With Why by Simon Sinek
 - Nonviolent Communication by Marshall B. Rosenberg
 - Deep Work by Cal Newport
 - The Five Dysfunctions of a Team by Patrick Lencioni
 - The Phoenix Project by  Gene Kim
 - StrengthsFinder 2.0 by Don Clifton
+- First, Break All The Rules by Marcus Buckingham
 
 ### Process
 
