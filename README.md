@@ -102,6 +102,7 @@ In addition to GitHub's Leadership Principles ([link for GitHub team members](ht
 - Accelerate by Nicole Forsgren
 - Making Work Visible by Dominica DeGrandis
 - Agile estimating and planning by Mike Cohn
+- Shape Up by Ryan Singer
 
 ### Sales and Marketing
 
