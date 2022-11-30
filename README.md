@@ -95,6 +95,7 @@ In addition to GitHub's Leadership Principles ([link for GitHub team members](ht
 - StrengthsFinder 2.0 by Don Clifton
 - First, Break All The Rules by Marcus Buckingham
 - Switch by Chip Heath & Dan Heath
+- Crucial Conversations by 4 authors
 
 ### Process
 
