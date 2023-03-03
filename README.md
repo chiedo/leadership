@@ -104,6 +104,7 @@ In addition to GitHub's Leadership Principles ([link for GitHub team members](ht
 - Making Work Visible by Dominica DeGrandis
 - Agile estimating and planning by Mike Cohn
 - Shape Up by Ryan Singer
+- The Timeless Way of Building by Christopher Alexander
 
 ### Sales and Marketing
 
@@ -112,6 +113,7 @@ In addition to GitHub's Leadership Principles ([link for GitHub team members](ht
 
 ### Product 
 
+- The Customer driven playbook by Travis Lowdermilk
 - The Lean Startup by Eric Ries
 - Sprint by Jake Knapp
 - Inspired by Marty Cagan
@@ -122,6 +124,6 @@ In addition to GitHub's Leadership Principles ([link for GitHub team members](ht
 - Build by Tony Fadell
 - Rocket Fuel by Gino Wikcman
 
-## Other
+## Contact me
 
 - [LinkedIn](https://linkedin.com/in/chiedo)
