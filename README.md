@@ -124,6 +124,10 @@ In addition to GitHub's Leadership Principles ([link for GitHub team members](ht
 - Build by Tony Fadell
 - Rocket Fuel by Gino Wikcman
 
+### Strategy
+
+- 7 Powers: The Foundations of Business Strategy by Hamilton Helmer
+
 ## Contact me
 
 - [LinkedIn](https://linkedin.com/in/chiedo)
