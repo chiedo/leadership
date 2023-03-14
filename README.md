@@ -110,6 +110,7 @@ In addition to GitHub's Leadership Principles ([link for GitHub team members](ht
 
 - Dotcom Secrets by Russell Brunson
 - Building a Storybrand by Donald Miller
+- $100M Offers by Alex Hormozi
 
 ### Product 
 
@@ -118,6 +119,7 @@ In addition to GitHub's Leadership Principles ([link for GitHub team members](ht
 - Sprint by Jake Knapp
 - Inspired by Marty Cagan
 - Continuous Discovery Habits by Teresa Torres
+- A Pattern Language by Christopher Alexander
 
 ### Business
 
