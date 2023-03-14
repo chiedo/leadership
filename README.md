@@ -11,6 +11,18 @@ I view work, in general, as an opportunity for me to meet my practical needs, ex
 
 My job is to support you in whatever way I can, provide direct feedback to help you grow, and orchestrate the systems and processes that help our team be the best team we can possibly be while delivering the most impact to GitHub and our customers.
 
+## I'm Gifted With
+
+- A bias for action
+- Strategic vision
+- Building relationships
+
+## I'm Working On
+
+- Being less reactive and more intentional
+- Increased patience
+- Moderating my pace and energy with discernment
+
 ## What to Expect from Me
 
 ### Supporting You
@@ -44,17 +56,6 @@ My job is to support you in whatever way I can, provide direct feedback to help 
 
 ## Being the Best Team
 
-### We Prioritize
-
-In addition to GitHub's Leadership Principles ([link for GitHub team members](https://thehub.github.com/github/#leadership-principles)) and maintaining a High-Performance Culture ([link for GitHub team members](https://thehub.github.com/hpc/)), I believe we should prioritize: 
-
-- People: When we orient our efforts around how they improve the lives of others, the world is a better place.
-- Innovation: Experimenting with new ideas is how some of the best solutions to problems are discovered.
-- Practicality: Perfect is the archnemesis of good.
-- Humility: We're a better team when we highly value the perspective of others and what we might learn from each person we interact with.
-- Ownership: When we make commitments and see them through, our yeses become more powerful and so do our nos.
-- Intentionality: When we pause and think through our decisions before taking action, they're often better decisions.
-
 ### We Optimize For
 
 - Locality and Simplicity
@@ -74,12 +75,6 @@ In addition to GitHub's Leadership Principles ([link for GitHub team members](ht
 - Attention to Results
 
 *Source: The 5 Dysfunctions of a Team*
-
-## I'm Working On
-
-- Being less reactive and more intentional
-- Increased patience
-- Moderating my pace and energy with discernment
 
 ## Books
 
