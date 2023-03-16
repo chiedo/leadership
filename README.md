@@ -77,7 +77,7 @@ My job is to support you in whatever way I can, provide direct feedback to help 
 
 *Source: The 5 Dysfunctions of a Team*
 
-## Books
+## Readings
 
 ### People
 
@@ -102,6 +102,7 @@ My job is to support you in whatever way I can, provide direct feedback to help 
 
 ### Sales and Marketing
 
+- The Sales Learning Curve by Mark Leslie and Charles A. Holloway
 - Dotcom Secrets by Russell Brunson
 - Building a Storybrand by Donald Miller
 - $100M Offers by Alex Hormozi
