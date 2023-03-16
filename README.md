@@ -16,6 +16,7 @@ My job is to support you in whatever way I can, provide direct feedback to help 
 - A bias for action
 - Strategic vision
 - Building relationships
+- Communicating directly and effectively
 
 ## I'm Working On
 
