@@ -17,12 +17,21 @@ My job is to support you in whatever way I can, provide direct feedback to help 
 - Strategic vision
 - Building relationships
 - Direct / Effective communication
+- Entrepreneurial / Business mindset
 
 ## I'm Working On
 
 - Being less reactive and more intentional
 - Increased patience
 - Moderating my pace and energy with discernment
+
+## I Enjoy
+
+- Time with family
+- Exercise
+- Watching Anime (Naruto, My Hero Academia), Marvel, Star Trek, and Star Wars series
+- Studying (books, podcasts) and discussing history, finance, economics, governments, philosophy, and business.
+- Advising, ideating, and launching startups
 
 ## What to Expect from Me
 
