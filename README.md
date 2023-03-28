@@ -98,7 +98,7 @@ My job is to support you in whatever way I can, provide direct feedback to help 
 - StrengthsFinder 2.0 by Don Clifton
 - First, Break All The Rules by Marcus Buckingham
 - Switch by Chip Heath & Dan Heath
-- Crucial Conversations by 4 authors
+- Who not How by Dan Sullivan 
 
 ### Process
 
