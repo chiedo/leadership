@@ -94,11 +94,20 @@ My job is to support you in whatever way I can, provide direct feedback to help 
 - Nonviolent Communication by Marshall B. Rosenberg
 - Deep Work by Cal Newport
 - The Five Dysfunctions of a Team by Patrick Lencioni
-- The Phoenix Project by  Gene Kim
+- The Phoenix Project by Gene Kim
 - StrengthsFinder 2.0 by Don Clifton
 - First, Break All The Rules by Marcus Buckingham
 - Switch by Chip Heath & Dan Heath
 - Who not How by Dan Sullivan 
+
+### Strategy
+
+- 7 Powers: The Foundations of Business Strategy by Hamilton Helmer
+
+### Organization Design
+
+- The Modern Firm by John Roberts
+- The Timeless Way of Building by Christopher Alexander
 
 ### Process
 
@@ -107,32 +116,22 @@ My job is to support you in whatever way I can, provide direct feedback to help 
 - Making Work Visible by Dominica DeGrandis
 - Agile estimating and planning by Mike Cohn
 - Shape Up by Ryan Singer
-- The Timeless Way of Building by Christopher Alexander
 
 ### Sales and Marketing
 
 - The Sales Learning Curve by Mark Leslie and Charles A. Holloway
-- Dotcom Secrets by Russell Brunson
 - Building a Storybrand by Donald Miller
 - $100M Offers by Alex Hormozi
 
 ### Product 
 
-- The Customer driven playbook by Travis Lowdermilk
 - The Lean Startup by Eric Ries
-- Sprint by Jake Knapp
-- Inspired by Marty Cagan
-- Continuous Discovery Habits by Teresa Torres
+- The Customer driven playbook by Travis Lowdermilk
 - A Pattern Language by Christopher Alexander
 
 ### Business
 
-- Build by Tony Fadell
 - Rocket Fuel by Gino Wikcman
-
-### Strategy
-
-- 7 Powers: The Foundations of Business Strategy by Hamilton Helmer
 
 ## Contact me
 
