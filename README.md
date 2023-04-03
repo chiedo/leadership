@@ -94,7 +94,6 @@ My job is to support you in whatever way I can, provide direct feedback to help 
 - Nonviolent Communication by Marshall B. Rosenberg
 - Deep Work by Cal Newport
 - The Five Dysfunctions of a Team by Patrick Lencioni
-- The Phoenix Project by Gene Kim
 - StrengthsFinder 2.0 by Don Clifton
 - First, Break All The Rules by Marcus Buckingham
 - Switch by Chip Heath & Dan Heath
@@ -132,6 +131,7 @@ My job is to support you in whatever way I can, provide direct feedback to help 
 ### Business
 
 - Rocket Fuel by Gino Wikcman
+- The Advantage by Patrick Lencioni
 
 ## Contact me
 
