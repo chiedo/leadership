@@ -107,6 +107,7 @@ My job is to support you in whatever way I can, provide direct feedback to help 
 
 - The Modern Firm by John Roberts
 - The Timeless Way of Building by Christopher Alexander
+- Team Topologies by Manuel Pais
 
 ### Process
 
