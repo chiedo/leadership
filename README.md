@@ -128,6 +128,7 @@ My job is to support you in whatever way I can, provide direct feedback to help 
 - The Lean Startup by Eric Ries
 - The Customer driven playbook by Travis Lowdermilk
 - A Pattern Language by Christopher Alexander
+- Monetizing Innovation by Georg Tacke Madhavan Ramanujam 
 
 ### Business
 
