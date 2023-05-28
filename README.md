@@ -2,89 +2,47 @@
 
 Hey I'm Chiedo, 👋
 
-I created this document:
+What gets me excited about work is knowing my unqiue skillset is being leveraged, knowing I'm growing, and deeply believing that I'm improving the lives of others.
 
-- As a reminder to myself to be the manager I strive to be.
-- To have a set of expectations and standards we can hold each other accountable to as we work together.
+## My strengths
 
-I view work, in general, as an opportunity for me to meet my practical needs, express the skills I've been blessed with, improve the lives of other people, grow in my character, and build wealth so I can be more charitable.
-
-My job is to support you in whatever way I can, provide direct feedback to help you grow, and orchestrate the systems and processes that help our team be the best team we can possibly be while delivering the most impact to GitHub and our customers.
-
-## I'm Gifted With
-
-- A bias for action
+- Bias for action (double edged sword)
 - Strategic vision
 - Building relationships
-- Direct / Effective communication
-- Entrepreneurial / Business mindset
+- Direct / effective communication
+- Entrepreneurial / business mindset
 
-## I'm Working On
-
-- Being less reactive and more intentional
-- Increased patience
-- Moderating my pace and energy with discernment
-
-## I Enjoy
+## My passions
 
 - Time with family
 - Exercise
-- Watching Anime (Naruto, My Hero Academia), Marvel, Star Trek, and Star Wars series
+- Watching Anime (Naruto, My Hero Academia), Marvel, Star Trek, and Star Wars 
 - Studying (books, podcasts) and discussing history, finance, economics, governments, philosophy, and business.
-- Advising, ideating, and launching startups
+- Advising, ideating, launching, and investing in startups
 
-## What to Expect from Me
+## Strong opinions I hold
 
-### Supporting You
+- Org charts answer the question "who do I report to" but cross-functional squads answer the question "who is on my team"
+- Meetings should be deeply engaging and if they are not they should have been an email
+- It's better to be clear and uncertain than to be unclear
+- If the team isn't aligned on what the most important goal is, the team isn't functioning like a team
+- One person is the final decision maker (after consulting relevant parties) and who that person is needs to be clear
 
-- I care about the whole you.
-- This job should add to your life, not detract from it.
-- I default to being hands-off and trust your judgement.
-- My opinions are for you to consider but decisions are yours to make.
-- Say the word and I'll be as hands-on as I can be.
-- I'm only the middleman when you want me to be or when GitHub wants me to be.
-- If I can unblock you, I will unblock you.
-- I'll provide coaching and guidance. But I'm only Morpheus. You're Neo.
+## My default leadership style
 
-### Providing Direct Feedback and Recognition
-
-- I provide feedback and recognition constantly so we're always in lock-step as we work together.
-- Feedback is always actionable so we can focus on how we might grow and move forward.
-
-### Orchestrating Systems and Processes
-
-- I optimize for asynchronous inclusivity by writing things down, keeping things discoverable, and keeping things updated with others in mind
-- I set up systems and processes to improve our work and amplify our impact. But when they hinder our work, we improve them or start over.
+- Caring
+- Being hands-off / high trust by default 
+- Having strong opinions that are weakly held
+- Morpheus to the people who report to me, not Neo
 
 ## What I Expect from Team Members
 
-- When you have ideas, share them.
-- Actively maintain a written paper trail of key conversations and your work.
-- Estimates are super hard so break down your work into small shippable chunks, estimate those chunks and then keep those estimates updated as things change.
-- Demo your work often to teach and inspire.
-- Hold yourself and your team members accountable to being the best team possible 🎉 👇
-
-## Being the Best Team
-
-### We Optimize For
-
-- Locality and Simplicity
-- Focus, Flow, and Joy
-- Improvement of Daily Work
-- Psychological Safety
-- Customer Focus
-
-*Source: The Unicorn Project*
-
-### And We Commit To
-
-- Trust
-- Healthy Conflict
-- Commitment
-- Accountability
-- Attention to Results
-
-*Source: The 5 Dysfunctions of a Team*
+- Maintaining a high tempo (schedule the follow up meeting tomorrow not next week)
+- Reducing scope
+- Shipping usable progress often
+- Staying engaged
+- Holding peers accountable
+- Writing things down (shared context and learning!)
 
 ## Readings
 
