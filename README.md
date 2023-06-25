@@ -17,7 +17,7 @@ What gets me excited about work is knowing my unqiue skillset is being leveraged
 - Time with family
 - Exercise
 - Watching Anime (Naruto, My Hero Academia), Marvel, Star Trek, and Star Wars 
-- Studying (books, podcasts) and discussing history, finance, economics, governments, philosophy, and business.
+- Studying (books, podcasts) and discussing tech, startups, innovation, history, finance, economics, governments, philosophy, and business.
 - Advising, ideating, launching, and investing in startups
 
 ## Strong opinions I hold
