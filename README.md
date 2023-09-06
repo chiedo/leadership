@@ -8,7 +8,7 @@ What gets me excited about work is knowing my unqiue skillset is being leveraged
 
 - Bias for action (double edged sword)
 - Strategic vision
-- Building relationships
+- Buildings teams and networks of people
 - Direct / effective communication
 - Entrepreneurial / business mindset
 
@@ -61,6 +61,7 @@ What gets me excited about work is knowing my unqiue skillset is being leveraged
 
 - 7 Powers: The Foundations of Business Strategy by Hamilton Helmer
 - Essentialism by Greg McKeown
+- Product Led Growth by Wes Bush
 
 ### Organization Design
 
