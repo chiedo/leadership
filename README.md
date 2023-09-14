@@ -61,7 +61,6 @@ What gets me excited about work is knowing my unqiue skillset is being leveraged
 
 - 7 Powers: The Foundations of Business Strategy by Hamilton Helmer
 - Essentialism by Greg McKeown
-- Product Led Growth by Wes Bush
 
 ### Organization Design
 
@@ -82,6 +81,14 @@ What gets me excited about work is knowing my unqiue skillset is being leveraged
 - The Sales Learning Curve by Mark Leslie and Charles A. Holloway
 - Building a Storybrand by Donald Miller
 - $100M Offers by Alex Hormozi
+
+### Growth
+
+- Product Led Growth by Wes Bush
+
+### Customer Success
+
+- Onboarding Matters by Donna Webber
 
 ### Product 
 
