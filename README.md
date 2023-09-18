@@ -86,8 +86,10 @@ What gets me excited about work is knowing my unqiue skillset is being leveraged
 
 - Product Led Growth by Wes Bush
 
-### Customer Success
+### GTM
 
+- Crossing the Chasm by Geoffrey Moore
+- MOVE by Sangram Vajre
 - Onboarding Matters by Donna Webber
 
 ### Product 
