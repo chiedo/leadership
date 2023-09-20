@@ -84,6 +84,7 @@ What gets me excited about work is knowing my unqiue skillset is being leveraged
 
 ### Growth
 
+- Hacking Growth by Sean Ellis
 - Product Led Growth by Wes Bush
 
 ### GTM
