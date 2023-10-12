@@ -52,10 +52,8 @@ What gets me excited about work is knowing my unqiue skillset is being leveraged
 - Nonviolent Communication by Marshall B. Rosenberg
 - Deep Work by Cal Newport
 - The Five Dysfunctions of a Team by Patrick Lencioni
-- StrengthsFinder 2.0 by Don Clifton
 - First, Break All The Rules by Marcus Buckingham
-- Switch by Chip Heath & Dan Heath
-- Who not How by Dan Sullivan 
+- Thinking Fast and Slow by Daniel Kahneman
 
 ### Strategy
 
@@ -86,6 +84,7 @@ What gets me excited about work is knowing my unqiue skillset is being leveraged
 
 - Hacking Growth by Sean Ellis
 - Product Led Growth by Wes Bush
+- Reforge Growth Series
 
 ### GTM
 
