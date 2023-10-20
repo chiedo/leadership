@@ -8,7 +8,8 @@ What gets me excited about work is knowing my unqiue skillset is being leveraged
 
 - Bias for action (double edged sword)
 - Strategic vision
-- Buildings async teams and networks of people
+- Buildings teams and bringing people together around a goal
+- Leading async teams
 - Direct / effective communication
 - Entrepreneurial / business mindset
 
