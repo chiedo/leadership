@@ -49,7 +49,7 @@ What gets me excited about work is knowing my unqiue skillset is being leveraged
 
 ### People
 
-- Start With Why by Simon Sinek
+- Built to Last by James Collins
 - Nonviolent Communication by Marshall B. Rosenberg
 - Deep Work by Cal Newport
 - The Five Dysfunctions of a Team by Patrick Lencioni
