@@ -98,6 +98,7 @@ What gets me excited about work is knowing my unqiue skillset is being leveraged
 
 ### Product 
 
+- Finding Product/Market Fit by Reforge
 - The Lean Startup by Eric Ries
 - The Customer driven playbook by Travis Lowdermilk
 - A Pattern Language by Christopher Alexander
