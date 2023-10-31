@@ -6,7 +6,7 @@ What gets me excited about work is knowing my unqiue skillset is being leveraged
 
 ## My strengths
 
-- Bias for action (double edged sword)
+- Bias for action
 - Strategic vision
 - Buildings teams and bringing people together around a goal
 - Leading async teams
