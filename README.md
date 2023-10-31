@@ -83,12 +83,12 @@ What gets me excited about work is knowing my unqiue skillset is being leveraged
 
 ### Growth
 
-- Hacking Growth by Sean Ellis
-- Product Led Growth by Wes Bush
 - Growth Series by Reforge
+- Hacking Growth by Sean Ellis
 - Growth Leadership by Reforge
 - Product-Led Growth by Reforge
-- Traction by Gabriel Weinberg 
+- Traction by Gabriel Weinberg
+- The Growth Handbook by Intercom
 
 ### GTM
 
