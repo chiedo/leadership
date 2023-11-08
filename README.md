@@ -81,12 +81,13 @@ What gets me excited about work is knowing my unqiue skillset is being leveraged
 - Building a Storybrand by Donald Miller
 - $100M Offers by Alex Hormozi
 
-### Growth
+### Product Led Growth
 
 - Growth Series by Reforge
 - Hacking Growth by Sean Ellis
 - Growth Leadership by Reforge
 - Product-Led Growth by Reforge
+- Retention and Engagement by Reforge
 - Traction by Gabriel Weinberg
 - The Growth Handbook by Intercom
 
