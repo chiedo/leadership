@@ -60,6 +60,7 @@ What gets me excited about work is knowing my unqiue skillset is being leveraged
 ### Strategy
 
 - 7 Powers: The Foundations of Business Strategy by Hamilton Helmer
+- Competitive Strategy by Michael Porter
 
 ### Organization Design
 
