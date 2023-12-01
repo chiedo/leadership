@@ -46,7 +46,7 @@ What gets me excited about work is knowing my unqiue skillset is being leveraged
 - Holding peers accountable
 - Writing things down (shared context and learning!)
 
-## Learning Resources
+## Favorite Books, Reading, and More!
 
 ### People
 
