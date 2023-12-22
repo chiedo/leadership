@@ -2,16 +2,18 @@
 
 Hey I'm Chiedo, 👋
 
-What gets me excited about work is knowing my unqiue skillset is being leveraged, knowing I'm growing, and deeply believing that I'm improving the lives of others.
+I'm motivated by challenges, learning, relationships and winning. Insofar as I'm aligned and excited about overarching mission and the vision of the company I work with/for.
 
 ## My strengths
 
 - Bias for action
 - Strategic vision
-- Buildings teams and bringing people together around a goal
-- Leading async teams
-- Direct / effective communication
-- Entrepreneurial / business mindset
+- Buildings teams
+- Leading asynchronous-first teams
+- Connecting with people
+- Community building
+- Direct & effective communication
+- Entrepreneurial mindset & experience
 
 ## My passions
 
@@ -42,7 +44,6 @@ What gets me excited about work is knowing my unqiue skillset is being leveraged
 - Maintaining a high tempo (schedule the follow up meeting tomorrow not next week)
 - Reducing scope
 - Shipping usable progress often
-- Staying engaged
 - Holding peers accountable
 - Writing things down (shared context and learning!)
 
@@ -85,10 +86,10 @@ What gets me excited about work is knowing my unqiue skillset is being leveraged
 ### Growth
 
 - Growth Series by Reforge
-- Hacking Growth by Sean Ellis
-- Growth Leadership by Reforge
 - Growth Marketing by Reforge
+- Growth Leadership by Reforge
 - Avanced Growth Strategy by Reforge
+- Hacking Growth by Sean Ellis
 - Retention and Engagement by Reforge
 - Product-Led Growth by Reforge
 - Traction by Gabriel Weinberg
