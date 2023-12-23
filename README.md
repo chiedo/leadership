@@ -2,39 +2,46 @@
 
 Hey I'm Chiedo, 👋
 
-I'm motivated by challenges, learning, relationships and winning. Insofar as I'm aligned and excited about overarching mission and the vision of the company I work with/for.
+I'm motivated by challenges, learning, relationships, and winning.
+
+All in the best way possible. I've got to be aligned and excited about the mission and the vision.
+
+And it's got to be good for humanity.
+
+Selling snake oil? 👎 Selling vegetables? 👍
+
+You get the picture.
 
 ## My strengths
 
 - Bias for action
 - Strategic vision
 - Buildings teams
-- Leading asynchronous-first teams
-- Connecting with people
+- Leading asynchronous teams
+- Being insanely likeable
 - Community building
-- Direct & effective communication
 - Entrepreneurial mindset & experience
 
 ## My passions
 
 - Time with family
-- Exercise
+- Exercise (But the kind you do in your thirties)
 - Hosting refugee dinners and welcoming refugees to Harrisonburg with friends from church
-- Watching Anime (Naruto, My Hero Academia), Marvel, Star Trek, and Star Wars 
-- Studying (books, podcasts) and discussing tech, startups, innovation, history, finance, economics, governments, philosophy, and business.
+- Watching Anime (Naruto, My Hero Academia, etc.), Marvel (less recently), Star Trek, and Star Wars 
+- Studying and discussing tech, startups, innovation, history, finance, economics, governments, philosophy, and business.
 - Advising, ideating, launching, and investing in startups
 
 ## Strong opinions I hold
 
 - Org charts answer the question "who do I report to" but cross-functional squads answer the question "who is on my team"
-- Meetings should be deeply engaging and if they are not they should have been an email
+- Meetings should be deeply engaging and if they are not they should have been an async
 - It's better to be clear and uncertain than to be unclear
 - If the team isn't aligned on what the most important goal is, the team isn't functioning like a team
 - One person is the final decision maker (after consulting relevant parties) and who that person is needs to be clear
 
 ## My default leadership style
 
-- Caring
+- The whole person first
 - Being hands-off / high trust by default 
 - Having strong opinions that are weakly held
 - Morpheus to the people who report to me, not Neo
