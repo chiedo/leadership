@@ -4,7 +4,7 @@ Hey I'm Chiedo, 👋
 
 I'm motivated by challenges, learning, relationships, and winning.
 
-All in the best way possible. I've got to be aligned and excited about the mission and the vision.
+I've got to be aligned and excited about the mission, the vision, and the brand.
 
 And it's got to be good for humanity.
 
