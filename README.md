@@ -10,8 +10,6 @@ And it's got to be good for humanity.
 
 Selling snake oil? 👎 Selling vegetables? 👍
 
-You get the picture.
-
 ## My strengths
 
 - Bias for action
@@ -26,6 +24,7 @@ You get the picture.
 
 - Time with family
 - Exercise (But the kind you do in your thirties)
+- Cooking
 - Hosting refugee dinners and welcoming refugees to Harrisonburg with friends from church
 - Watching Anime (Naruto, My Hero Academia, etc.), Marvel (less recently), Star Trek, and Star Wars 
 - Studying and discussing tech, startups, innovation, history, finance, economics, governments, philosophy, and business.
