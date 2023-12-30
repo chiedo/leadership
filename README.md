@@ -85,6 +85,7 @@ Selling snake oil? 👎 Selling vegetables? 👍
 
 ### Sales and Marketing
 
+- Marketing Strategy by Reforge
 - The Sales Learning Curve by Mark Leslie and Charles A. Holloway
 - Building a Storybrand by Donald Miller
 - $100M Offers by Alex Hormozi
