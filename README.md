@@ -112,9 +112,10 @@ Selling snake oil? 👎 Selling vegetables? 👍
 
 - Finding Product/Market Fit by Reforge
 - The Lean Startup by Eric Ries
+- User Insights for Product Decisions by Reforge
 - The Customer driven playbook by Travis Lowdermilk
 - A Pattern Language by Christopher Alexander
-- Monetizing Innovation by Georg Tacke Madhavan Ramanujam 
+- Monetizing Innovation by Georg Tacke Madhavan Ramanujam
 
 ### Business
 
