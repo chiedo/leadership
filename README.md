@@ -16,7 +16,7 @@ Selling snake oil? 👎 Selling vegetables? 👍
 - Strategic vision
 - Buildings teams
 - Leading asynchronous teams
-- Being insanely likeable
+- Being insanely likable
 - Community building
 - Entrepreneurial mindset & experience
 
