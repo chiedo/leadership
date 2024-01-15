@@ -98,6 +98,7 @@ Selling snake oil? 👎 Selling vegetables? 👍
 - Avanced Growth Strategy by Reforge
 - Hacking Growth by Sean Ellis
 - Retention and Engagement by Reforge
+- Experimentation and Testing by Reforge
 - Product-Led Growth by Reforge
 - Traction by Gabriel Weinberg
 - The Growth Handbook by Intercom
