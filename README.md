@@ -12,13 +12,12 @@ Selling snake oil? 👎 Selling vegetables? 👍
 
 ## My strengths
 
-- Bias for action
-- Strategic vision
-- Buildings teams
-- Leading asynchronous teams
-- Being insanely likable
-- Community building
-- Entrepreneurial mindset & experience
+1. Being organized and fast
+2. Driving vision through action
+3. Generating energy
+4. Generating clarity
+5. Generating results
+6. Buildings cross-functional teams
 
 ## My passions
 
