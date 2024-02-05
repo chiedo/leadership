@@ -14,10 +14,8 @@ Selling snake oil? 👎 Selling vegetables? 👍
 
 1. Being organized and fast
 2. Driving vision through action
-3. Generating energy
-4. Generating clarity
-5. Generating results
-6. Buildings cross-functional teams
+3. Generating energy, clarity, and results
+4. Building cross-functional teams
 
 ## My passions
 
