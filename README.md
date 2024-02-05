@@ -13,7 +13,7 @@ Selling snake oil? 👎 Selling vegetables? 👍
 ## My strengths
 
 1. Being organized and fast
-2. Driving vision through action
+2. Driving vision plus action
 3. Generating energy, clarity, and results
 4. Building cross-functional teams
 
