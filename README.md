@@ -98,6 +98,7 @@ Selling snake oil? 👎 Selling vegetables? 👍
 - Experimentation and Testing by Reforge
 - Product-Led Growth by Reforge
 - Traction by Gabriel Weinberg
+- Marketing Technology by Reforge
 - The Growth Handbook by Intercom
 
 ### GTM
