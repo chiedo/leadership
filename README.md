@@ -23,7 +23,7 @@ Selling snake oil? 👎 Selling vegetables? 👍
 - Exercise (But the kind you do in your thirties)
 - Cooking
 - Hosting refugee dinners and welcoming refugees to Harrisonburg with friends from church
-- Watching Anime (Naruto, My Hero Academia, etc.), Marvel (less recently), Star Trek, and Star Wars 
+- Watching musicals and choreography, Anime (Naruto, My Hero Academia, etc.), Marvel (less recently), Star Trek, and Star Wars 
 - Studying and discussing tech, startups, innovation, history, finance, economics, governments, philosophy, and business.
 - Advising, ideating, launching, and investing in startups
 
