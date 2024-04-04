@@ -10,7 +10,11 @@ And it's got to be good for humanity.
 
 Selling snake oil? 👎 Selling vegetables? 👍
 
-## My strengths
+## Super powers
+
+High energy ⚡️ and speed 🚀.
+
+## Strengths
 
 1. Being organized and fast
 2. Driving vision plus action
