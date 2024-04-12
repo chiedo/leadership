@@ -12,7 +12,7 @@ Selling snake oil? 👎 Selling vegetables? 👍
 
 ## Super powers
 
-High energy ⚡️ and organized speed 🚀.
+Moving fast ⚡️, being unusually organized 🗂️, and generating energy 🔋 
 
 ## My passions
 
